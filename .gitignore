@@ -1,0 +1,4 @@
+/storage/
+/tests/storage/logs/server.log
+/config/config_local.yml
+/.idea/
